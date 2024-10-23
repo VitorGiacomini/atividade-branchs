@@ -21,6 +21,11 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+section {
+    padding: 20px;
+    text-align: center;
+
 aside {
     width: 200px;
     float: left;
@@ -42,4 +47,5 @@ nav ul li {
 nav ul li a {
     color: white;
     text-decoration: none;
+
 }
